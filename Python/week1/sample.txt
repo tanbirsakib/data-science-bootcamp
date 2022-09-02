@@ -1,0 +1,3 @@
+Data Science Bootcamp
+Week 1: Python
+Week 2: Numpy, Pandas, Matplotlib, Plotly
